@@ -1,0 +1,9 @@
+#first-paragraph {
+  border: solid 5px yellow;
+  margin-bottom: 30px;
+}
+
+#second-paragraph {
+  border: solid 5px yellow;
+  margin-top: 10px;
+}
