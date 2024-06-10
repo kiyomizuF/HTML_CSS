@@ -1,0 +1,21 @@
+p {
+    background-color: yellow;
+}
+
+#first-span {
+    background-color: lightblue;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#second-span {
+    background-color: lightgreen;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#third-span {
+    background-color: lightgray;
+    padding-left: 40px;
+    padding-right: 40px;
+}
