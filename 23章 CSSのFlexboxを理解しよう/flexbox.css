@@ -1,0 +1,53 @@
+.flexbox-container {
+  display: flex;
+  height: 500px;
+  padding: 5px;
+  background-color: lightcyan;
+}
+
+.flexbox-item {
+  flex: 0 2 200px;
+  padding: 5px;
+  margin: 5px;
+  background-color: orange;
+}
+
+#item01 {
+  height: 200px;
+  align-self: center;
+}
+
+#item02 {
+  height: 200px;
+  align-self: center;
+}
+
+#item03 {
+  height: 200px;
+  align-self: center;
+}
+
+#item04 {
+  height: 200px;
+  align-self: center;
+}
+
+#item05 {
+  height: 200px;
+  align-self: center;
+}
+
+#item06 {
+  height: 200px;
+  align-self: center;
+}
+
+#item07 {
+  font-size: 10px;
+  align-self: baseline;
+}
+
+#item08 {
+  height: 200px;
+  align-self: center;
+}
